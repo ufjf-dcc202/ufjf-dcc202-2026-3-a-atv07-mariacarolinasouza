@@ -1,0 +1,14 @@
+      em {
+          color: purple;
+          text-decoration: underline;
+      }
+
+      code {
+          color: plum;
+          text-decoration: underline;
+      }
+
+      li>code {
+          color: rgb(124, 92, 197);
+          background-color: rgb(167, 225, 233);
+      }
